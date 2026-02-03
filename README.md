@@ -1,6 +1,4 @@
 # Challenge_Conversor
-Claro ✨ Aquí tienes un **README** claro, ordenado y listo para GitHub, escrito en **Markdown**:
-
 ---
 
 # 💱 Conversor de Monedas en Java
