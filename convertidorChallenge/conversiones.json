@@ -1,0 +1,14 @@
+[
+  {
+    "Base_code": "MXN",
+    "Target_code": "USD",
+    "Conversion_rate": 0.05748,
+    "Conversion_result": 0.11496
+  },
+  {
+    "Base_code": "CLP",
+    "Target_code": "USD",
+    "Conversion_rate": 0.001147,
+    "Conversion_result": 0.006882
+  }
+]
