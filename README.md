@@ -70,9 +70,3 @@ Las conversiones realizadas se guardan en un archivo **JSON**, permitiendo lleva
 * Documentación oficial:
   [https://www.exchangerate-api.com/docs/supported-currencies](https://www.exchangerate-api.com/docs/supported-currencies)
 
-## 📄 Licencia
-
-Este proyecto es de uso educativo y puede ser modificado libremente.
-
-
-Solo dime 😉
